@@ -102,7 +102,7 @@ section {
 #bg2 {
     width: 30vw;
     height: 40vh;
-    background: url(https://github.com/GamerBike39/projet-PurhairCut/blob/main/assets/img/realisation_2.png);
+    background: url(/assets/img/realisation_2.png);
     background-position: center;
     background-size: cover;
 }
