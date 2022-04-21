@@ -94,7 +94,7 @@ section {
 #bg1 {
     width: 30vw;
     height: 40vh;
-    background: url(assets/img/realisation_1.png);
+    background: url(/assets/img/realisation_1.png);
     background-position: center;
     background-size: cover;
 }
